@@ -27,7 +27,7 @@ A co-op, top-down 3D dungeon crawler (Unity) where friends head out from a share
 
 ## 3. Theme options (Proposed)
 
-The theme has to answer three things at once: **what the hub is**, **why death takes your materials but not your gear**, and **why upgrades exist**. Three different directions:
+The theme has to answer three things at once: **what the hub is**, **why death takes your materials but not your gear**, and **why upgrades exist**. Eight different directions:
 
 ### A. The Last Ember
 The world has gone dark and cold. At its centre burns the last flame, and you are Emberbound: when you die, the flame rebuilds you.
@@ -49,6 +49,41 @@ Reality has broken into shards. Your hub is a small floating island at the centr
 - **Death:** the Sanctum's anchor recalls anything bound to you. Unbound loot falls into the void between shards.
 - **Upgrades:** each new gate is a new biome or dungeon. Gate upgrades are your shortcuts (deeper entry points, skip floors). Fragments you restore become new station sites.
 - **Flavour:** clean fit for instanced dungeons and tiers (a tier = a ring of shards). Less "open world" than V Rising, though shards can be big.
+
+### D. Grave Goods
+You're already dead. You're revenants, raised from a forgotten necropolis to finish what you started.
+- **Hub:** the graveyard and the crypts beneath it. It grows as you restore mausoleums, chapels and catacombs.
+- **Death:** you rise again from your own grave. Your gear is your *grave goods*, buried with you, so it rises too. Anything else you were holding is just lost with your body.
+- **Upgrades:** restoring the necropolis and raising more of the dead. NPCs are old souls you lay to rest or wake. Shortcuts are crypt tunnels that surface out in the biomes.
+- **Flavour:** dark with a sense of humour, and a strong look. Pets could be skeletal or ghostly.
+
+### E. The Dreamer
+The hub is the mind of a sleeping giant, and the biomes are its nightmares.
+- **Hub:** a calm, half-formed dreamscape that becomes more solid and detailed as you upgrade it.
+- **Death:** dying in a nightmare wakes you. Only what's been *remembered* (gear forged at the hub) survives waking. Loose things you picked up fade like a dream does.
+- **Upgrades:** "lucidity." The more lucid the dreamer, the more of the hub takes shape and the deeper into the nightmares you can go. Biomes going obsolete fits well: old nightmares lose their grip.
+- **Flavour:** surreal. Biomes can be wildly different from each other and still make sense.
+
+### F. The Mycelium Heart
+A huge fungal network lives under the world, and you're spore-born, grown from it to gather what it needs.
+- **Hub:** a glowing fungal grove around the Heart. Stations are grown, not built.
+- **Death:** you sprout again at the Heart. Your gear is symbiotic and grows back with you. Raw materials are just matter, and the forest reclaims them.
+- **Upgrades:** feeding the Heart spreads the network. Spreading roots into a biome makes fungal tunnels (shortcuts) and lets the network digest that biome's resources while you're away (idle production).
+- **Flavour:** organic and eerie. It explains offline production better than any other option.
+
+### G. The Crashed Ark
+A great ship (sky-ship, or sci-fantasy vessel) crashed in a valley long ago, and you're its crew, rebuilt again and again by its systems.
+- **Hub:** the wreck and the camp that has grown up around it.
+- **Death:** the ship's rebuild bay reprints you. Gear is stored as a pattern in the ship's memory, so it's reprinted with you. Raw materials are physical and stay where you fell.
+- **Upgrades:** repairing ship modules. Each module is a station (forge = fabricator, smelter = reactor). Fully repairing the Ark could be the end goal.
+- **Flavour:** a clear long-term goal (get the ship flying), and room for a sci-fi twist on fantasy biomes.
+
+### H. The Company
+You're indebted contractors working for a shady expedition company that's claimed a dangerous frontier.
+- **Hub:** the company's frontier outpost, which grows as you pay off your debt and earn the right to build.
+- **Death:** the company's insurance covers your registered equipment and returns your body. Cargo isn't insured, and the company won't pay to recover it.
+- **Upgrades:** paying down debt, buying permits and contracts. Quests are company jobs, and NPCs are other contractors and suppliers who set up shop as the outpost grows.
+- **Flavour:** comedic and a bit cynical, which suits a game for friends. Easy to explain in one line.
 
 **Light lean:** A is the simplest to build and to explain, and it fits an open V Rising-style map best. C is the best fit if dungeons end up being the main content. B is the most distinctive, but it's the riskiest for a friends-and-hobby scope.
 
@@ -172,7 +207,7 @@ If the "push or bank" loop is fun in this slice, everything else is just more of
 
 ## Questions for Bam (pick whichever you have opinions on)
 
-1. **Theme:** which of A (Last Ember), B (Colossus) or C (Shattered Sanctum) grabs you, or should I mix parts of them?
+1. **Theme:** which of the eight themes (A to H) grabs you, or should I mix parts of them?
 2. **Skills:** happy with the hybrid (spent XP for combat, use-based for life skills)?
 3. **Map:** one big connected open world like V Rising, or a hub with separate zones and instanced dungeons?
 4. **Shared hub:** one base the whole group builds together, or a base per player you can visit?
