@@ -27,7 +27,7 @@ A co-op, top-down 3D dungeon crawler (Unity) where friends head out from a share
 
 ## 3. Theme options (Proposed)
 
-The theme has to answer three things at once: **what the hub is**, **why death takes your materials but not your gear**, and **why upgrades exist**. Eight different directions:
+The theme has to answer three things at once: **what the hub is**, **why death takes your materials but not your gear**, and **why upgrades exist**. Thirteen different directions:
 
 ### A. The Last Ember
 The world has gone dark and cold. At its centre burns the last flame, and you are Emberbound: when you die, the flame rebuilds you.
@@ -84,6 +84,41 @@ You're indebted contractors working for a shady expedition company that's claime
 - **Death:** the company's insurance covers your registered equipment and returns your body. Cargo isn't insured, and the company won't pay to recover it.
 - **Upgrades:** paying down debt, buying permits and contracts. Quests are company jobs, and NPCs are other contractors and suppliers who set up shop as the outpost grows.
 - **Flavour:** comedic and a bit cynical, which suits a game for friends. Easy to explain in one line.
+
+### I. The Living Atlas
+The world only exists where it has been drawn. You work for a cartographer, and the hub is the town on the atlas's first page.
+- **Hub:** a hand-drawn town that gets inked in more detail as you upgrade it.
+- **Death:** you're smudged out and redrawn at the margin. Gear you've had *inked into the atlas* at the hub is redrawn with you. Uncharted loot was never drawn, so it's gone.
+- **Upgrades:** drawing more of the map. New biomes appear as you chart them, roads you draw become shortcuts, and the codex is literally the atlas's notes.
+- **Flavour:** a striking art style (ink, parchment, watercolour biomes). Biomes unlocking by being drawn is a strong visual moment.
+
+### J. The Fallen God
+A god died and fell across the world. Its corpse became the land, and you're born from its blood.
+- **Hub:** a settlement inside the god's ribcage, around its still-beating heart.
+- **Death:** your blood returns to the heart and you're reborn. Gear made at the heart from god-bone is part of the god, so it returns too. Anything else rots where you fell.
+- **Upgrades:** waking the heart. Each beat it gains spreads warmth further and opens new chambers (stations). Each biome is a different part of the body, so the map itself tells the story.
+- **Flavour:** grand and grim, Souls-adjacent. Biomes can be weird in a way that still makes sense.
+
+### K. The Collector
+An eccentric, very rich collector wants one of everything in a dangerous world, and you're the expedition team.
+- **Hub:** the collector's estate, with grounds, workshops and a growing museum.
+- **Death:** the collector's recall charm brings you home. Gear is *catalogued*, so the charm brings it back. Uncatalogued loot isn't covered.
+- **Upgrades:** new museum wings and estate buildings, funded by what you bring back. The codex is the museum itself, and filling exhibits gives bonuses.
+- **Flavour:** light and charming. It makes the codex the centre of the game instead of a side feature.
+
+### L. Clockwork Bodies
+You're golems built by a reclusive artificer. Your soul is a core, and your body is whatever you build around it.
+- **Hub:** the artificer's workshop town, full of half-built machines.
+- **Death:** your body shatters and your core returns to the workshop. Your gear *is your body* (arms, plating, weapons fitted at the hub), so it's rebuilt from the blueprint. Loose materials are left in the wreckage.
+- **Upgrades:** better bodies and better workshops. Stat requirements become frame requirements (a heavy cannon arm needs a strong frame).
+- **Flavour:** gear and character are the same thing, which makes "gear can make up for stats" feel natural.
+
+### M. The Storm's Eye
+An endless storm covers the world. The hub is the only calm spot, its eye, held open by storm engines.
+- **Hub:** a sheltered valley that widens as you build more engines.
+- **Death:** the storm strikes you home through a lightning tether. Charged gear (bonded at the engines) conducts home with you. Loose materials scatter in the wind.
+- **Upgrades:** more engines widen the eye and push back the storm, opening new biomes. Lightning rods out in the world are your shortcuts.
+- **Flavour:** dynamic weather as a core mechanic. Storm intensity can rise the longer you stay out, which adds to the push-or-bank tension.
 
 **Light lean:** A is the simplest to build and to explain, and it fits an open V Rising-style map best. C is the best fit if dungeons end up being the main content. B is the most distinctive, but it's the riskiest for a friends-and-hobby scope.
 
@@ -207,7 +242,7 @@ If the "push or bank" loop is fun in this slice, everything else is just more of
 
 ## Questions for Bam (pick whichever you have opinions on)
 
-1. **Theme:** which of the eight themes (A to H) grabs you, or should I mix parts of them?
+1. **Theme:** which of the themes (A to M) grabs you, or should I mix parts of them?
 2. **Skills:** happy with the hybrid (spent XP for combat, use-based for life skills)?
 3. **Map:** one big connected open world like V Rising, or a hub with separate zones and instanced dungeons?
 4. **Shared hub:** one base the whole group builds together, or a base per player you can visit?
